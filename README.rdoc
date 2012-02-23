@@ -1,4 +1,7 @@
-= kongguksu is a demo rails app for Twitter singup API with OAuth
+= kongguksu 
+
+== Note:
+  A demo Rails application for Twitter singup API using OAuth
 
 == Dependencies:
 
